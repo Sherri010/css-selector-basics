@@ -1,0 +1,44 @@
+
+
+p {
+  color: orange;
+}
+
+div {
+  border: 1px solid black;
+}
+
+.comments {
+    font-weight: bold;
+    color: #64FE2E; /* green */
+}
+
+#dolphin {
+    font-style: italic;
+    color: #0040FF; /*blue*/
+}
+.mammal { color: red; background: lavenderBlush;}
+.bird {color:blue; background:lightGray;}
+.fish {color:orange;background:lightYellow;}
+
+.first {
+  font-size: 40px;
+}
+
+.second {
+  color: red;
+}
+
+li#mouse {color:gray;}
+li#canary {color:orangeRed;}
+li#penguin {color:black;}
+li#salmin {color:salmon;}
+li#cat {color:sienna;}
+li#goldfish {color:gold;}
+li#dog {color:tan;}
+li#sheep {color:steelBlue;}
+li#parakeet {color:lime;}
+li#tuna {color:purple;}
+li {text-align: center}
+li.why {font-family: sans-serif;}
+li#not {font-family: serif;}
